@@ -1,0 +1,12 @@
+# Neon Colorbar
+# An electric neon color scheme for maximum visibility
+# Format: R G B (values 0-255)
+255 0 255
+255 0 127
+255 0 0
+255 127 0
+255 255 0
+0 255 0
+0 255 255
+0 127 255
+0 0 255
