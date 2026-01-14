@@ -1,0 +1,11 @@
+# Tropical Colorbar
+# A vibrant tropical color scheme with bright pinks, greens, and blues
+# Format: R G B (values 0-255)
+255 20 147
+255 105 180
+255 192 203
+127 255 212
+0 255 127
+50 205 50
+0 255 255
+138 43 226

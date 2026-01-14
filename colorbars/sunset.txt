@@ -1,0 +1,10 @@
+# Sunset Colorbar
+# A warm sunset color scheme from deep purple to bright orange
+# Format: R G B (values 0-255)
+25 25 112
+138 43 226
+220 20 60
+255 69 0
+255 140 0
+255 165 0
+255 215 0

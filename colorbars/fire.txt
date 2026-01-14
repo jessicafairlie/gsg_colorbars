@@ -1,0 +1,10 @@
+# Fire Colorbar
+# A hot fire color scheme from black to white through red and yellow
+# Format: R G B (values 0-255)
+0 0 0
+128 0 0
+255 0 0
+255 128 0
+255 255 0
+255 255 128
+255 255 255
