@@ -1,23 +1,26 @@
 # gsg_colorbars
 Highly colorful colorbars for those who want their data to stand out.
 
-<img width="610" height="313" alt="image" src="https://github.com/user-attachments/assets/c7bf069f-6cfa-4bee-9546-760d99a9d999" />
-<img width="672" height="423" alt="image" src="https://github.com/user-attachments/assets/a923d5de-0d67-44ce-86d8-47b19489cd52" />
-<img width="663" height="203" alt="image" src="https://github.com/user-attachments/assets/5dc0d1bf-1c9d-4845-9786-cfda1d45d36f" />
+
+
+<img width="803" height="313" alt="image" src="https://github.com/user-attachments/assets/7bdcc9fe-38ac-4a67-8fd3-c6f0beeaeefd" />
+<img width="803" height="478" alt="image" src="https://github.com/user-attachments/assets/56937f76-0645-40c7-b1cb-9734f10469ce" />
+<img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/61254edd-d285-4dd7-9e85-cafdad8e94fd" />
+
 
 
 
 
 calling them in matlab:
 
-gulf = load('/path/gulf.txt');
-colormap(gulf);
+  gulf = load('/path/gulf.txt');
+  colormap(gulf);
 
 
 calling them in python (crazy I know):
 
-import numpy as np
-from matplotlib.colors import ListedColormap
-
-gulf= np.loadtxt(Path(r"path\gulf.txt"))
-cmap = ListedColormap(gulf)
+  import numpy as np
+  from matplotlib.colors import ListedColormap
+  
+  gulf= np.loadtxt(Path(r"path\gulf.txt"))
+  cmap = ListedColormap(gulf)
