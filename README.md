@@ -3,9 +3,10 @@ Highly colorful colorbars for those who want their data to stand out.
 
 
 
-<img width="803" height="313" alt="image" src="https://github.com/user-attachments/assets/7bdcc9fe-38ac-4a67-8fd3-c6f0beeaeefd" />
-<img width="803" height="478" alt="image" src="https://github.com/user-attachments/assets/56937f76-0645-40c7-b1cb-9734f10469ce" />
-<img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/61254edd-d285-4dd7-9e85-cafdad8e94fd" />
+<img width="803" height="313" alt="image" src="https://github.com/user-attachments/assets/d6c8e91c-c71d-4ca4-99bf-548bf9ae5589" />
+<img width="803" height="478" alt="image" src="https://github.com/user-attachments/assets/cf5e32fa-b223-40e8-9a26-b85dd90ce0e1" />
+<img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/b21fa8e2-203f-4453-977c-ac33d6f178b6" />
+
 
 
 
