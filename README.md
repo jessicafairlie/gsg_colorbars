@@ -7,3 +7,17 @@ Highly colorful colorbars for those who want their data to stand out.
 
 
 
+
+calling them in matlab:
+
+gulf = load('/path/gulf.txt');
+colormap(gulf);
+
+
+calling them in python (crazy I know):
+
+import numpy as np
+from matplotlib.colors import ListedColormap
+
+gulf= np.loadtxt(Path(r"path\gulf.txt"))
+cmap = ListedColormap(gulf)
