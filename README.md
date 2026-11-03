@@ -1,5 +1,8 @@
 # gsg_colorbars
 Highly colorful colorbars for those who want their data to stand out.
+These colorbars are perceptually uniform and sequential, meaning they increase/decrease in lightness linearly.
+The non-diverging colorbars are all colorblind friendly due to the linear changes in lightness.
+The diverging colorbars for the most part are color blind friendly, especially strbry_flds_frvr_div, terra, chntclr, and swmp_rnbw which retain their positive-negative contrast under colorblind filters.
 
 
 
